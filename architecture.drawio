@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T05:32:42.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="lxhNyOnNm8mZvvGHrE4n" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:53:41.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="iObsy2KgmBitobFDUnHT" version="24.2.2" type="github">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="2122" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-119" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dynamically Assigned&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="30" width="210" height="690" as="geometry" />
+        </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-1" value="DHCPv6 Server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
           <mxGeometry x="-350" y="285" width="110" height="120" as="geometry" />
         </mxCell>
@@ -18,22 +21,25 @@
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-2" value="&lt;div&gt;Access Switch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
           <mxGeometry x="-690" y="110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-11" value="&lt;div&gt;Common customer VLAN assigned to customer ports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0:ffff:fffe/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;DHCPv6 Relay and Snooping set for each customer port&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="70" width="330" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-11" value="&lt;div&gt;Common customer VLAN assigned to customer ports&lt;br&gt;&lt;/div&gt;&lt;div&gt;VLAN address: 2604:2940:f1b0:9e7:0:0:ffff:fffe/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;DHCPv6 Relay and Snooping set for each customer port&lt;br&gt;&lt;/div&gt;&lt;div&gt;Snooping inserts PD route locally and OSPFv3 distributes&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="60" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-12" value="&lt;div&gt;DHCPv6 VLAN&lt;/div&gt;&lt;div&gt;2604:2940:f1b0::/64&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD VLAN (/64)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:8000::/49&lt;br&gt;&lt;/div&gt;&lt;div&gt;32,768 subnets&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD VLAN (/60)&lt;/div&gt;&lt;div&gt;2604:2940:9e7::/48&lt;br&gt;&lt;/div&gt;&lt;div&gt;4096 subnets&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-12" value="&lt;div&gt;DHCPv6 VLAN&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7::/64&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD VLAN (/64)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:0100::/40&lt;br&gt;&lt;/div&gt;&lt;div&gt;16.8 million subnets&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD VLAN (/56)&lt;/div&gt;&lt;div&gt;2604:2940:0200::/40&lt;br&gt;&lt;/div&gt;&lt;div&gt;65,536 subnets&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-234" y="330" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-15" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0::1/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8001::/64&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-15" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0::1/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:0::/64&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="55" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-16" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0::2/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8002::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-16" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0::2/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:1::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="110" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-17" value="Customer Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
           <mxGeometry x="-860" y="110" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-18" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0::3/96&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8003::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-116" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mLJ67Mt6gOwtkgKKo30Z-18" target="mLJ67Mt6gOwtkgKKo30Z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-18" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:0::3/96&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:2::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="165" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-6" value="Customer Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
@@ -58,19 +64,19 @@
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-80" value="&lt;div&gt;Access Switch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
           <mxGeometry x="-690" y="340" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-81" value="&lt;div&gt;Common customer VLAN assigned to customer ports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1:ffff:fffe/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;DHCPv6 Relay and Snooping set for each customer port&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="300" width="330" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-81" value="&lt;div&gt;Common customer VLAN assigned to customer ports&lt;br&gt;&lt;/div&gt;&lt;div&gt;VLAN address: 2604:2940:f1b0:9e7:0:1:ffff:fffe/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;DHCPv6 Relay and Snooping set for each customer port&lt;br&gt;&lt;/div&gt;&lt;div&gt;Snooping inserts PD route locally and OSPFv3 distributes&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="290" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-82" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1::1/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8001::/64&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-82" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1::1/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:3::/64&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="285" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-83" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1::2/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8002::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-83" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1::2/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:4::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="340" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-84" value="Customer Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
           <mxGeometry x="-860" y="340" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-85" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1::3/96&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8003::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-85" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:1::3/96&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:5::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="395" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-86" value="Customer Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
@@ -95,19 +101,19 @@
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-91" value="&lt;div&gt;Access Switch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
           <mxGeometry x="-690" y="580" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-92" value="&lt;div&gt;Common customer VLAN assigned to customer ports&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2:ffff:fffe/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;DHCPv6 Relay and Snooping set for each customer port&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="540" width="330" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-92" value="&lt;div&gt;Common customer VLAN assigned to customer ports&lt;br&gt;&lt;/div&gt;&lt;div&gt;VLAN address: 2604:2940:f1b0:9e7:0:2:ffff:fffe/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;DHCPv6 Relay and Snooping set for each customer port&lt;br&gt;&lt;/div&gt;&lt;div&gt;Snooping inserts PD route locally and OSPFv3 distributes&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="530" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-93" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2::1/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8001::/64&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-93" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2::1/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:6::/64&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="525" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-94" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2::2/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8002::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-94" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2::2/96&lt;br&gt;&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:7::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="580" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-95" value="Customer Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
           <mxGeometry x="-860" y="580" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-96" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2::3/96&lt;/div&gt;&lt;div&gt;PD: 2604:2940:f1b0:8003::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-96" value="&lt;div&gt;WAN Address (Dynamic)&lt;br&gt;&lt;/div&gt;&lt;div&gt;2604:2940:f1b0:9e7:0:2::3/96&lt;/div&gt;&lt;div&gt;PD: 2604:2940:100:8::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="635" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-97" value="Customer Router" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
@@ -121,17 +127,17 @@
             <mxPoint x="-680" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-106" value="lo: fd00:f1b0:0:1000::101/128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="425" width="170" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-106" value="lo: fd00:f1b0:ea48:5aa9::101/128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="425" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-107" value="lo: fd00:f1b0::1/128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-107" value="lo: fd00:f1b0:8149:71d6::1/128" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="160" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-108" value="lo: fd00:f1b0::2/128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="390" width="110" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-108" value="lo: fd00:f1b0:8149:71d6::2/128" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="390" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-109" value="lo: fd00:f1b0::3/128" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="630" width="110" height="30" as="geometry" />
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-109" value="lo: fd00:f1b0:8149:71d6::3/128" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="630" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-110" value="c" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -165,6 +171,12 @@
           <mxGeometry x="0.29" y="-5" relative="1" as="geometry">
             <mxPoint x="-32" y="-11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-117" value="&lt;div&gt;&lt;b&gt;Deployment Steps for Access Switches&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Assign fd00 address to access switch loopback&lt;/li&gt;&lt;li&gt;Join access switch to OSPFv3&lt;/li&gt;&lt;li&gt;Assign dedicated IPv6 address to customer VLAN&lt;/li&gt;&lt;li&gt;Configure DHCP relay to point to DHCPv6 server&lt;br&gt;&lt;/li&gt;&lt;li&gt;Enable DHCPv6 relay for each customer port&lt;br&gt;&lt;/li&gt;&lt;li&gt;Enable DHCPv6 snooping for each customer port&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="610" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-118" value="&lt;div&gt;Router Loopback /128 Addresses&lt;/div&gt;&lt;div&gt;fd00:f1b0:8149:71d6::/64&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Triton Network&lt;/div&gt;&lt;div&gt;fd00:f1b0:ea48:5aa9::/64&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="27.5" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
