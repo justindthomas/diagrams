@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:55:07.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="h92KlS0HChLhY-NFnb5z" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:59:44.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="x1sTIbPv22DZ0OOdjATk" version="24.2.2" type="github">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="2122" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="mLJ67Mt6gOwtkgKKo30Z-109" value="lo: fd00:f1b0:8149:71d6::3/128" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-690" y="630" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-110" value="c" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mLJ67Mt6gOwtkgKKo30Z-110" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-580" y="120" as="sourcePoint" />
             <mxPoint x="-360" y="270" as="targetPoint" />
